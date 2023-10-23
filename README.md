@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NiallSummersCambridge
+- 👀 I’m interested in computational neuroscience
+- 🌱 I’m currently learning MATLAB
+- 📫 How to reach me: nrs41@cam.ac.uk
